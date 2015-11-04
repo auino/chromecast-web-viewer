@@ -19,3 +19,9 @@ All these parameters should be encoded, as reported in the following examples:
  * PHP: `urlencode($URL)`
  * JavaScript: `encodeURIComponent(URL)`
 
+Note that no `$URL` check is accomplished by default, so anyone is potentially able to use your page for his purposes.
+If you want to avoid this, you should check `$URL` on `index.php`.
+
+### Contacts ###
+
+You can find me on Twitter as [@auino](https://twitter.com/auino).
