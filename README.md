@@ -1,6 +1,9 @@
 # chromecast-web-viewer
 
 This project allows you to easily set up a web page to show web videos.
+
+Thanks to this project, you can easily make any online video compatible for your Google Chromecast.
+
 [Google Chromecast](https://www.google.com/chromecast) support is implemented: if Chromecast is supported, the user has got the ability to cast the video on his device.
 Otherwise (i.e. for browsers different from Google Chrome), a simple video is shown.
 
