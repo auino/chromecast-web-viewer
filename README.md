@@ -4,7 +4,7 @@ This project allows you to easily set up a web page to show web videos.
 
 Thanks to this project, you can easily make any online video compatible for your Google Chromecast.
 
-[Google Chromecast](https://www.google.com/chromecast) support is implemented: if Chromecast is supported, the user has got the ability to cast the video on his device.
+[Google Chromecast](https://www.google.com/chromecast) support is implemented: if Chromecast is supported, the user has got the ability to cast the video on his device (though the default media receiver app).
 Otherwise (i.e. for browsers different from Google Chrome), a simple video is shown.
 
 This project represents an extension (actually, it's a simplification) of the [CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome) project.
