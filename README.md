@@ -27,7 +27,7 @@ First of all, you have to put project files on your web server supporting PHP.
 Then, assuming you put it on the DocumentRoot folder of the server, you can test the functioning by opening the following address (as today, Chromecast support is only implemented on Google Chrome):
 
 ```
-http://www.yourwebserver.com/?u=http%3A%2F%2Fcommondatastorage.googleapis.com%2Fgtv-videos-bucket%2Fsample%2FBigBuckBunny.mp4&t=Big%20Buck%20Bunny&i=http%3A%2F%2Farchive.org%2Fdownload%2FBigBuckBunny_328%2Fformat%3DThumbnail%0A
+http://www.yourwebserver.com/?u=http%3A%2F%2Fcommondatastorage.googleapis.com%2Fgtv-videos-bucket%2Fsample%2FBigBuckBunny.mp4&t=Big%20Buck%20Bunny&i=http%3A%2F%2Farchive.org%2Fdownload%2FBigBuckBunny_328%2Fformat%3DThumbnail
 ```
 
 where `http://www.yourwebserver.com` identifies the protocol and domain of your server.
