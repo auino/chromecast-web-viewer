@@ -66,7 +66,7 @@ CastPlayer.prototype.initializeCastPlayer = function() {
       setTimeout(this.initializeCastPlayer.bind(this), 1000);
       return;
     }
-    var applicationID = '4F8B3483';
+    var applicationID = chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID;
 
     var autoJoinPolicy = chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED;
 
